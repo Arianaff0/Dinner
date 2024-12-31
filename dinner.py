@@ -1,4 +1,4 @@
-# Developed by: Ariana Feng
+# Developed by: Ariana F
 # Date: Feb 4, 2022
 # Desc: A program to inquire invitees about their dietary preferences.
 #       The program also inquires the tip amount, shows number of invitees who ordered each meal
